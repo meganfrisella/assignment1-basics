@@ -1,7 +1,7 @@
 # CSE599-O Fall 2025 Assignment 1: Basics
 
 For a full description of the assignment, see the assignment handout at
-[CSE599_Assignment1.pdf](./CSE599_Assignment1)
+[CSE599_Assignment1.pdf](./CSE599_Assignment1.pdf)
 
 If you see any issues with the assignment handout or code, please feel free to
 raise a GitHub issue or open a pull request with a fix.
