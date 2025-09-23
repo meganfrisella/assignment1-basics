@@ -111,7 +111,7 @@ wheels = [
 ]
 
 [[package]]
-name = "cs336-basics"
+name = "cse599o-basics"
 version = "1.0.6"
 source = { editable = "." }
 dependencies = [
