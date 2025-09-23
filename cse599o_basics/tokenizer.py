@@ -69,10 +69,6 @@ class BPETokenizer:
         if not token_ids:
             return ""
         
-        ################################################################################
-        # TODO: Implement the decode method with one line of code
-        # Use tiktoken's decode method to convert token IDs back to original text
-        ################################################################################
         return self.tokenizer.decode(token_ids)
 
     def encode_iterable(
