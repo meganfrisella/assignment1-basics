@@ -48,3 +48,7 @@ gunzip owt_valid.txt.gz
 cd ..
 ```
 
+### Acknowledgment
+
+This assignment is adapted from [Assignment 1 of Stanford CS336 (Spring 2025)](https://github.com/stanford-cs336/assignment1-basics).
+
