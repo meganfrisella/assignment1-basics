@@ -15,5 +15,4 @@
 #SBATCH --error=netid-slurm-%j.err              # STDERR log file (%j = JobID)
 
 # --- Example Command to run ---
-export CUDA_VISIBLE_DEVICES=DeviceID   # Set the GPU device ID you have access to (0,1,2,3,4,5,6,7)
-srun uv run pytest
+CUDA_VISIBLE_DEVICES=DeviceID srun uv run pytest # Set the GPU device ID you have access to (0-7)
