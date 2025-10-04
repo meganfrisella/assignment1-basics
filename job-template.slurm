@@ -15,4 +15,4 @@
 #SBATCH --error=netid-slurm-%j.err              # STDERR log file (%j = JobID)
 
 # --- Example Command to run ---
-srun uv run pytest # Set the GPU device ID you have access to (0-7)
+srun uv run pytest
